@@ -1,0 +1,66 @@
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.exe.config
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.Form1.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\MySql.Data.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Buffers.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Memory.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\ZstdNet.dll
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\MySql.Data.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Buffers.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Memory.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.exe
+C:\Users\ds-etim-2\Desktop\desenvolvimento de sistemas\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.pdb
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.exe.config
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.exe
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.pdb
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.exe
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\exemplo-crud.pdb
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\MySql.Data.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Buffers.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Memory.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\ZstdNet.dll
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\MySql.Data.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Buffers.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Memory.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.Form1.resources
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo-crud.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.splash.resources
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.frm_home.resources
+C:\Users\ds-etim-2\Desktop\DS\Exemplos\exemplo-crud\exemplo-crud\obj\Debug\exemplo_crud.frm_login.resources
+C:\Users\ds-etim-2\Desktop\ativadade tela Login\TelaLoginAcessar\exemplo-crud\bin\Debug\exemplo-crud.exe.config
+C:\Users\ds-etim-2\Desktop\ativadade tela Login\TelaLoginAcessar\exemplo-crud\obj\Debug\exemplo-crud.exe
+C:\Users\ds-etim-2\Desktop\ativadade tela Login\TelaLoginAcessar\exemplo-crud\obj\Debug\exemplo-crud.pdb
